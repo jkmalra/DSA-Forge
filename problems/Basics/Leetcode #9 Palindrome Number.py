@@ -8,3 +8,9 @@
                 num //= 10
                 
             return palindrome_number == x
+
+
+# TEST CASES:
+# 121
+# -121 = False
+# 10 = False
