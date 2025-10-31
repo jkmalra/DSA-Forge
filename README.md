@@ -4,9 +4,9 @@ Tracking my LeetCode journey
 
 | Date        | LeetCode Rank| Problems/Contests | Notes/Comments                                                       |
 |-------------|--------------|-------------------|----------------------------------------------------------------------|
-| 01/Oct/2025 | 2,878,268    | 31                | Start working on DSA and problem solving                             |
-| 15/Oct/2025 | 2,586,924    | 40 & 1 contest    | Understanding types of pattern and try to solve problem by myself    |
-| 31/Oct/2025 | TBD          | TBD               | Solved first 2-pointer problems                                      |
+| 01/Oct/2025 | 2,878,268    | T:31              | Start working on DSA and problem solving                             |
+| 15/Oct/2025 | 2,586,924    | T:40 & 1 contest  | Understanding types of pattern and try to solve problem by myself    |
+| 31/Oct/2025 | 2,045,897    | T:58 & 3 contest  | practice for CodeVita & solving mainly math problems                 |
 | 15/Nov/2025 | TBD          | TBD               | Continue weekly progression                                          |
 | 30/Nov/2025 | TBD          | TBD               | Continue weekly progression                                          |
 | 15/Dec/2025 | TBD          | TBD               | Continue weekly progression                                          |
