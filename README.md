@@ -34,14 +34,6 @@ DSA-FORGE/
 └── tracker.csv # Problem tracker with mastery level
 ```
 
-
-## Goals
-- Solve **at least 1 problem daily** (no skip days).  
-- Reach **200+ problems by Dec 2025** (mainly Easy + Medium).  
-- Focus on **reusable patterns**, not rote memorization.  
-- Build confidence to explain *every line of my code* logically.  
-- Practice clean, structured problem-solving flow.
-
 # LeetCode Progress Tracker 📈
 
 Tracking my LeetCode grind and mental growth.
@@ -56,11 +48,17 @@ Tracking my LeetCode grind and mental growth.
 | 15/Dec/2025 | TBD          | TBD               | Continue weekly progression                                          |
 
 ---
-## 💡 Notes Philosophy
+## Goals
+- Solve **at least 1 problem daily** (no skip days).  
+- Reach **200+ problems by Dec 2025** (mainly Easy + Medium).  
+- Focus on **reusable patterns**, not rote memorization.  
+- Build confidence to explain *every line of my code* logically.  
+- Practice clean, structured problem-solving flow.
+
+## Notes Philosophy
 
 - **`CommonMistakes.md`** → My personal debugging log.
 - **`MindMap.md`** → How each DSA concept connects mentally.
 - **`Shortcuts.md`** → Reusable code snippets for interviews.
----
 
-**Author:** [J.K. Malra]
+**Author:** [ J.K. Malra ]
