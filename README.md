@@ -1,6 +1,7 @@
 This repository is my personal forge — where I train daily on Data Structures & Algorithms, practice logical thinking, and refine patterns for problem solving in **Python** (primary) and **Java** (secondary).
 
 ## 📂 Structure
+```text
 DSA-FORGE/
 │
 ├── 01_Patterns/ # Common patterns like Sliding Window, Two Pointers, DP, etc.
@@ -31,7 +32,7 @@ DSA-FORGE/
 │ └── Cheatsheets/
 │
 └── tracker.csv # Problem tracker with mastery level
-
+```
 
 
 ## Goals
