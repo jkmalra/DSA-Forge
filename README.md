@@ -1,6 +1,49 @@
+This repository is my personal forge — where I train daily on Data Structures & Algorithms, practice logical thinking, and refine patterns for problem solving in **Python** (primary) and **Java** (secondary).
+
+## 📂 Structure
+DSA-FORGE/
+│
+├── 01_Patterns/ # Common patterns like Sliding Window, Two Pointers, DP, etc.
+├── 02_Problems/ # Organized by difficulty
+│ ├── Easy/
+│ ├── Medium/
+│ ├── Hard/
+│ ├── Revisit/ # Understood from others but not understand properly yet
+│ └── Unsolved/ # Still confused or need deeper clarity
+│
+├── 03_LeetCode/ # LeetCode journey (daily, contests, top 150)
+│ ├── Daily/
+│ ├── Contests/
+│ ├── Top Interview 150/
+│ └── Unsolved/
+│
+├── 04_External_Problems/ # Real-world coding & logic challenges
+│ ├── TCS_CodeVita/
+│ ├── Hackathons/
+│ ├── Competitions/
+│ └── Miscellaneous/
+│
+├── 05_Notes/ # My cheat sheets, mind maps, and common mistakes
+│ ├── Patterns.md
+│ ├── CommonMistakes.md
+│ ├── MindMap.md
+│ ├── Shortcuts.md
+│ └── Cheatsheets/
+│
+└── tracker.csv # Problem tracker with mastery level
+
+
+
+## Goals
+- Solve **at least 1 problem daily** (no skip days).  
+- Reach **200+ problems by Dec 2025** (mainly Easy + Medium).  
+- Focus on **reusable patterns**, not rote memorization.  
+- Build confidence to explain *every line of my code* logically.  
+- Practice clean, structured problem-solving flow.
+
 # LeetCode Progress Tracker 📈
 
-Tracking my LeetCode journey
+Tracking my LeetCode grind and mental growth.
 
 | Date        | LeetCode Rank| Problems/Contests | Notes/Comments                                                       |
 |-------------|--------------|-------------------|----------------------------------------------------------------------|
@@ -11,26 +54,12 @@ Tracking my LeetCode journey
 | 30/Nov/2025 | TBD          | TBD               | Continue weekly progression                                          |
 | 15/Dec/2025 | TBD          | TBD               | Continue weekly progression                                          |
 
-<hr>
+---
+## 💡 Notes Philosophy
 
-This repository contains my daily <b>Practices, Notes and Updated</b> of Data Structures & Algorithms.<br>
-I am focusing on mastering **Patterns** (arrays, strings, hashing, recursion, DP) and writing clean solutions in **Python**.  
+- **`CommonMistakes.md`** → My personal debugging log.
+- **`MindMap.md`** → How each DSA concept connects mentally.
+- **`Shortcuts.md`** → Reusable code snippets for interviews.
+---
 
-## 📂 Structure
-- **problems/** → All solved problems, organized by difficulty (`easy/`, `medium/`, `hard/`).
-- **patterns/** → Common DSA patterns (sliding window, binary search, DP, etc.).
-- **CheatSheets/** → Quick reference notes.
-- **Progress/** → Daily log of problems solved
-- **utils/** → Helper templates.
-
-## 🛠Language
-- Python (primary)
-- Java (secondary)
-
-## Goals
-- Solve at least 1 problem daily.
-- Cover 200+ problems by Dec 2025 (Easy + Medium mix).
-- Focus on reusable **patterns** instead of rote solutions.
-
-## Progress
-Check [progress.md](./progress.md) for my daily/weekly problem-solving log.
+**Author:** [J.K. Malra]
