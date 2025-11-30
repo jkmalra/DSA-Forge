@@ -1,8 +1,12 @@
-class Solution {
-    public int maxDistinct(String s) {
+class Solution:
+    def maxDistinct(self, s: str) -> int:
+        distinct = set()
+        for i in range(len(s)):
+            if s[i] in distinct:
+                continue
+            distinct.add(s[i])
         
-    }
-}
+        return len(distinct)
 
 
 
