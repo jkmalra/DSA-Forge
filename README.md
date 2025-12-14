@@ -42,10 +42,10 @@ Tracking my LeetCode grind and mental growth.
 |-------------|--------------|-------------------|----------------------------------------------------------------------|
 | 01/Oct/2025 | 2,878,268    | T:31              | Start working on DSA and problem solving                             |
 | 15/Oct/2025 | 2,586,924    | T:40 & 1 contest  | Understanding types of pattern and try to solve problem by myself    |
-| 31/Oct/2025 | 2,045,897    | T:58 & 3 contest  | practice for CodeVita & solving mainly math problems                 |
-| 15/Nov/2025 | TBD          | TBD               | Continue weekly progression                                          |
-| 30/Nov/2025 | TBD          | TBD               | Continue weekly progression                                          |
+| 1/Nov/2025  | 2,045,897    | T:58 & 3 contest  | practice for CodeVita & solving mainly math problems                 |
+| 1/Dec/2025  | 1,818,292    | T:70 & 7 contest  | Learning patterns & solving 150 LeetCode sheet                       |
 | 15/Dec/2025 | TBD          | TBD               | Continue weekly progression                                          |
+| 1/Jan/2025  | TBD          | TBD               | Continue weekly progression                                          |
 
 ---
 ## Goals
