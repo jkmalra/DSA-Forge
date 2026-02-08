@@ -61,4 +61,6 @@ Tracking my LeetCode grind and mental growth.
 - **`MindMap.md`** → How each DSA concept connects mentally.
 - **`Shortcuts.md`** → Reusable code snippets for interviews.
 
+![1769829780453](https://github.com/user-attachments/assets/94407ecb-f050-4934-b6f9-a80f9e0d0f28)
+
 **Author:** [ J.K. Malra ]
